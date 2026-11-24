@@ -1,0 +1,13 @@
+WBTransfer
+Copyright 2026 The WBTransfer Authors
+
+This product is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full text.
+
+Third-party dependencies (all dual-licensed MIT OR Apache-2.0):
+  - serde_json  https://crates.io/crates/serde_json
+  - base64      https://crates.io/crates/base64
+  - windows-sys https://crates.io/crates/windows-sys
+
+This software is provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied.
