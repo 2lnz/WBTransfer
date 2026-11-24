@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-4F8EF7"></a>
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-56D68A">
-  <img alt="Rust" src="https://img.shields.io/badge/rust-1.75%2B-orange">
-  <img alt="Dependencies" src="https://img.shields.io/badge/deps-3-brightgreen">
+  <a href="LICENSE"><img alt="License: Apache-2.0" src="assets/badge-license.svg"></a>
+  <img alt="Platform: Windows 10/11" src="assets/badge-platform.svg">
+  <img alt="Rust: 1.75+" src="assets/badge-rust.svg">
+  <img alt="Dependencies: 3" src="assets/badge-dependencies.svg">
 </p>
 
 ---
